@@ -6,5 +6,5 @@
 4) Create .env file for Metamask Private Key
 
 # Commands
-coinbase\studio> sanity start
+coinbase\studio> sanity start <br>
 coinbase> yarn run dev
